@@ -1,4 +1,4 @@
-Programmer since 2004. Fuent in C++ and Python, and learning Rust. 
+Programmer since 2004. Fluent in C++ and Python, and learning Rust. 
 
 Most of my personal projects are in-house business software for my side business selling moral patches. [ChimeranArt.com](https://www.chimeranart.com)
 
